@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'zombie';
+    src: url('Curse of the Zombie.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: arial,helvetica,sans-serif;
+}
+h1 { 
+    font-family: 'zombie', Times, serif;
+    font-size: 3em;
+    font-weight: normal;
+}
+
+/*Tipos de formato
+-opentype (otf)
+-truetype(ttf)
+-embedded-opentype
+-truetype-aat (Apple advanced typography)
+-svg*/

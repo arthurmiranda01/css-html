@@ -1,0 +1,41 @@
+@charset "UTF-8";
+h1{
+    background-color: rgb(138, 135, 135);
+    height: 115px;
+    width: auto;
+    text-align: center;
+    border: 10px solid black;
+    padding: 60px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+    
+}
+nav {
+    background-color:lightgreen;
+    height: 50px;
+    width: auto;
+    text-align: center;
+    padding: 25px 10px 0px 10px;
+    margin: 10px 10px 10px 10px;
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.438);
+}
+nav > a {
+    margin: 100px;
+    padding: 25px 10px 0px 10px;
+}
+main {
+    background-color:rgb(109, 109, 109);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 1px 2px 9px rgba(0, 0, 0, 0.438);
+}
+.titulo {
+    font-size: 10px !important;
+}
+footer {
+    text-align: center;
+    background-color: rgb(102, 102, 102);
+    padding: 5px;
+    color: aliceblue
+    ;
+}
+
